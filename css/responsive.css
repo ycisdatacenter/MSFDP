@@ -1,0 +1,932 @@
+@media (max-width:1199px){
+	.headervtwo {margin: 0 0 -106px;}
+	.headervtwo .logo {width: 220px;}
+	.headervtwo .navigation > ul > li {
+		padding: 0 0 25px;
+		margin: 0 0 0 15px;
+	}
+	.mega-menu.fullmegamenu {width: 940px !important;}
+	.homebannervtwo .homeslider{width:100%;}
+	.homeslidervthree .slidercontent{padding:106px 0 0;}
+	.homeslidervfour .slidercontent{padding:30px;}
+	.noticeboardarea{
+		width:100%;
+		padding:20px 0 0;
+	}
+	.noticeboardarea{
+		width:auto;
+		float:none;
+		clear:both;
+		margin:0 -15px;
+		overflow:hidden;
+	}
+	.noticeboardarea .widget{
+		width:50%;
+		padding:0 15px;
+	}
+	.noticeboardarea .widget + .widget{margin:0;}
+	.glanceatuoeandkvtwo{padding:0 0 30px;}
+	.themepostleftimg .themepostcontent{padding: 5px 0 5px 20px;}
+	.detailpage .themeposttitle h1 {
+		font-size: 22px;
+		line-height: 25px;
+	}
+	.themepostinfo li {padding: 0px 11px;}
+	.coursestabs .themetabnav li a {padding: 0 40px;}
+	.formsignupfree {width: 50%;}
+	.signuptextbox{
+		width:100%;
+		padding:0 0 15px;
+	}
+	.formsignupfree{width:100%;}
+	.formsignupfree .form-group:first-child{padding:0 30px 0 0;}
+	.infolist li address {max-width: 180px;}
+	.widgetlatestcourses .campuscontent .matadata{
+		padding:0;
+		font-size:12px;
+	}
+	.addmission .pagetitle h2 {
+		font-size:25px;
+		line-height: 30px;
+	}
+	.widgetothercapmus .widgetcontent ul li address{
+		width:80%;
+		overflow:hidden;
+		white-space:nowrap;
+		text-overflow:ellipsis;
+	}
+	.maincampus .themepostcontent{padding:0 0 0 15px;}
+	.maincampuses .capmusinfo{line-height:15px;}
+	.maincampuses .campuseslocation{height:227px;}
+	.campuses ul li address{
+		max-width:86%;
+		font-size:12px;
+	}
+	.ouridentityimages{width:55%;}
+	.comingcountdown .counterbox {padding: 60px 30px;}
+	.jobs .themecollapsecontent ul li .description p{
+		width: 100%;
+		overflow: hidden;
+		white-space: nowrap;
+		padding: 0 15px 0 0;
+		text-overflow: ellipsis;
+	}
+	.homeslidervthree .slidercontent h1 {
+		font-size: 50px;
+		line-height: 50px;
+	}
+	.homeslidervthree .slidercontent h1 span {
+		font-size: 55px;
+		line-height: 35px;
+	}
+}
+@media (max-width:991px){
+	.navigation ul li a {padding: 0 13px;}
+	li.menu-item-has-children > a:before,
+	li.menu-item-has-mega-menu > a:before {
+		top: 2px;
+		right: 3px;
+	}
+	.mega-menu.fullmegamenu,
+	.mega-menu{
+		left:0 !important;
+		width:100% !important;
+	}
+	.headervtwo {margin: 0 0 -119px;}
+	.addressinfo li {padding: 0 15px 0 0;}
+	.addressinfo li i {
+		padding: 0;
+		font-size: 15px;
+		line-height: 15px;
+	}
+	.headervtwo .btndropdown span + span {padding: 0 0 0 5px;}
+	.headervtwo .logo {
+		width: 100%;
+		margin: 20px 0 0;
+	}
+	.headervtwo .logo a img{
+		margin:0 auto;
+		display:block;
+	}
+	.headervtwo .navigationandsearch {padding: 10px 0 0;}
+	.headervtwo .navigation > ul > li{padding:0;}
+	.headervthree .navigationandsearch {padding: 20px 0;}
+	.homeslidervthree .slidercontent h1 {
+		font-size: 35px;
+		line-height: 25px;
+	}
+	.homeslidervthree .slidercontent h1 span {
+		font-size: 35px;
+		line-height: 30px;
+		padding: 10px 0;
+	}
+	.homeslidervthree .slidercontent .btn{padding:0 40px;}
+	.homeslidervfour .slidercontent h1 {
+		font-size: 60px;
+		line-height: 60px;
+	}
+	.homeslidervfour .slidercontent h1 span {
+		font-size: 70px;
+		line-height: 50px;
+		padding: 10px 0 30px;
+	}
+	.homeslidervfour .slidercontent .btn{padding:0 50px;}
+	.slidercontent{width:50%;}
+	.borderheading h1 {
+		font-size: 28px;
+		line-height: 28px;
+	}
+	.borderheading h1 span {padding: 5px 0 0;}
+	.slidercontent .description {padding: 15px 0;}
+	.fullmegamenu .tabpane {padding: 17px 30px 30px 30px;}
+	.ticker .item .description p {
+		width: 100%;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+	}
+	.welcomeandgreeting{text-align:center;}
+	.welcomeandgreeting figure{
+		float:none;
+		display:inline-block;
+	}
+	.welcomeandgreeting .shortcodetextbox{
+		width:100%;
+		text-align:left;
+		padding:20px 0 0;
+	}
+	.welcomeandgreeting-v2 figure{float:left;}
+	.welcomeandgreeting-v2 .shortcodetextbox{
+		width:auto;
+		overflow:hidden;
+		text-align:left;
+		padding:6px 0 6px 20px;
+	}
+	.widgetquicklinksvtwo .widgetcontent ul li a{
+		min-height:90px;
+		display: flex;
+		justify-content: flex-start;
+		align-items: center;
+		align-content: center;
+	}
+	.themepostleftthumb .featuredimg,
+	.themepostleftimg .featuredimg{width:100%;}
+	.themepostleftthumb .featuredimg img,
+	.themepostleftimg .featuredimg img{
+		width:100%;
+		height:auto;
+		display:block;
+	}
+	.themepostleftthumb .themepostcontent,
+	.themepostleftimg .themepostcontent{
+		width:100%;
+		float:left;
+		padding:15px 0 0;
+	}
+	.glanceatuoeandk{padding:0 0 30px;}
+	.footer .widget {min-height: 300px;}
+	.list .featuredimg{
+		width:100%;
+		margin:0 0 30px;
+	}
+	.headervtwo .mega-menu.fullmegamenu {left: 0 !important;}
+	.list .themepostcontent{
+		width:100%;
+		float:left;
+		padding:0;
+	}
+	.themepostinfo li{width:100%;}
+	.themepostinfo li + li{border:0;}
+	.coursestabs .themetabnav li{width:49%;}
+	.courseinfo{
+		width:100%;
+		margin:0 0 30px;
+	}
+	.tutors .boxleft{width:100%;}
+	.tutors .boxright{
+		float:left;
+		padding:20px 0 0;
+	}
+	.tutors .boxright .socialicons{margin:0;}
+	.campuses ul li address,
+	.widgetothercapmus .widgetcontent ul{font-size:12px;}
+	.widgetothercapmus .widgetcontent ul li address {
+		max-width: 124px;
+		line-height: 16px;
+	}
+	.facultydetail figure{
+		width:100%;
+		margin:0 0 30px;
+	}
+	.facultydetail figure img{
+		display:block;
+		margin:0 auto;
+	}
+	.facultycontent{
+		width:100%;
+		float:left;
+	}
+	.eventdetailpage .themepostinfo li,
+	.events.list .themepostcontent{padding:0;}
+	.faculty,
+	.speaker{padding:15px 0;}
+	.maincampus,
+	.maincampuses .mapholder{width:100%;}
+	.maincampuses .campuseslocation {height: 350px;}
+	.maincampus .themepostcontent{padding:0 0 0 30px;}
+	.honoraward{display:block;}
+	.honorawardcontent,
+	.honoraward figure{width:100%;}
+	.honoraward figure{margin:0 0 30px;}
+	.honorawardcontent{padding:0;}
+	.rectormessage,
+	.leadership{padding:0;}
+	.rectormessage figure,
+	.leadership figure{
+		width:100%;
+		float:left;
+		position:relative;
+	}
+	.rectormessage figure img,
+	.leadership figure img{
+		width:100%;
+		height:auto;
+		display:block;
+	}
+	.rectormessage figure{margin:0 0 30px;}
+	.ouridentityimages,
+	.objectivesimages{
+		width:100%;
+		margin:0 0 30px;
+	}
+	.ouridentity .description,
+	.Objectives .description{
+		padding:0;
+		width:100%;
+	}
+	.list .newspost .themepostcontent{padding:0;}
+	.detailpage blockquote,
+	.detailpage blockquote q {
+		font-size:15px;
+		line-height:20px;
+	}
+	.tagstext,
+	.sharetext{
+		width:100%;
+		padding: 0;
+	}
+	.tagstext{padding:0 0 30px;}
+	.postauthorhead{padding:0 0 15px;}
+	.postauthorhead .socialicons{position:relative;}
+	.postauthorhead .socialicons li:first-child{padding:0;}
+	.masonrygrid{width:25%;}
+	.comingcountdown .counter {
+		width: 50%;
+		padding: 15px;
+	}
+	.departmentscollapse .themecollapsecontent{padding:0 0 20px 0;}
+	.departmentscollapse .themecollapsecontent ul li .description {padding: 10px 90px 10px 60px;}
+	.themecollapsecontent ul li > strong,
+	.themecollapsecontent ul li span,
+	.themecollapsecontent ul li a {
+		width: 120px;
+		padding: 10px;
+	}
+	.coursesemestercollapse .themecollapsecontent ul li > strong,
+	.coursesemestercollapse .themecollapsecontent ul li span{width:90px;}
+	.coursesemestercollapse .themecollapsecontent ul li .description {padding: 10px 110px;}
+	.themecollapsecontent ul li .description {padding: 10px 130px;}
+	.postnav li{
+		width: 50%;
+		padding: 0 0 0 15px;
+	}
+	.postnav li:first-child{padding: 0 15px 0 0;}
+	.postnavcontent h3 a{
+		display: block;
+		overflow: hidden;
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
+		text-overflow: ellipsis;
+		-webkit-box-orient: vertical;
+	}
+	.jobs .themecollapsecontent ul li:first-child{display: none;}
+	.jobs .themecollapsecontent ul li a{
+		width: auto;
+		float: left;
+	}
+	.jobs .themecollapsecontent ul li span,
+	.jobs .themecollapsecontent ul li .description{
+		border: 0;
+		width: 100%;
+		float: left;
+		text-align: left;
+		position: relative;
+		border-bottom: 1px solid #fff;
+		padding: 10px 10px 10px 110px;
+	}
+	.jobs .themecollapsecontent ul li span:before,
+	.jobs .themecollapsecontent ul li .description:before{
+		top: 0;
+		left: 0;
+		width: 100px;
+		padding: 10px;
+		text-align: left;
+		position: absolute;
+		font-size: inherit;
+		font-weight: bold;
+		line-height: inherit;
+		text-transform: capitalize;
+		border-right: 1px solid #fff;
+	}
+	.jobs .themecollapsecontent ul li span:first-child:before{content:attr(data-date);}
+	.jobs .themecollapsecontent ul li span:before{content:attr(data-action);}
+	.jobs .themecollapsecontent ul li .description:before{content:attr(data-jobtitle);}
+	.homeslidervthree .slidercontent {padding: 120px 15px 0;}
+	.allsemesterhours li > strong{
+		width: 90px;
+		padding: 0 10px;
+	}
+	.allsemesterhours li .description {padding: 0 100px 0 0;}
+	.postauthor,
+	.comment{padding: 15px;}
+}
+@media (max-width:800px){
+	.homeslidervfour .slidercontent h1 {
+		font-size: 40px;
+		line-height: 40px;
+	}
+	.homeslidervfour .slidercontent h1 span {
+		font-size: 50px;
+		line-height: 30px;
+		padding: 10px 0 20px;
+	}
+}
+@media (max-width:767px){
+	.logo{width:100%;}
+	.logo a img{
+		width:auto;
+		margin:0 auto;
+		display:block;
+	}
+	.nav{padding:0;}
+	.nav .navbar-toggle{
+		margin:0;
+		border: 0;
+		width: 40px;
+		height: 40px;
+		padding: 9px;
+		border-radius: 0;
+	}
+	.nav .navbar-toggle .icon-bar{background:#fff;}
+	.navigation{
+		left: 0;
+		top: 100%;
+		padding:0 15px;
+		background: #1995d4;
+		margin: 10px 0 0;
+		position: absolute;
+	}
+	.headervtwo .navigation{
+		margin:0;
+		position:absolute;
+	}
+	.navigation > ul > li{
+		width:100%;
+		border-bottom:1px solid #ddd;
+	}
+	.sub-menu {
+		opacity: 1;
+		width: 100%;
+		float: left;
+		display: none;
+		position: static;
+		box-shadow: none;
+		visibility: visible;
+	}
+	.mega-menu{
+		float:left;
+		opacity:1;
+		display:none;
+		position:static;
+		box-shadow:none;
+		visibility:visible;
+			width:100% !important;
+	}
+	.mega-menu.fullmegamenu{
+		float:left;
+		width:100% !important;
+	}
+	.dropdowarrow{display: block;}
+	.sub-menu li.menu-item-has-children > a:after,
+	a[data-new]:after,
+	a[data-new]:before,
+	.navigation ul li:hover a[data-new]:after,
+	.navigation ul li a:hover[data-new]:after,
+	li.menu-item-has-children > a:before,
+	li.menu-item-has-mega-menu > a:before{display:none;}
+	li.menu-item-has-mega-menu{position:relative;}
+	.navigation > ul > li.current-menu-item > a,
+	.navigation > ul > li:hover > a,
+	.navigation > ul > li > a:hover{
+		color:#333;
+		background:none;
+	}
+	.megamenuslider .themepostcontent .matadata{
+		width:100%;
+		margin:0 0 10px;
+	}
+	.megamenuslider .themepostcontent .pricebox{float:left;}
+	.fullmegamenu .tabpane {padding: 17px 30px 10px 30px;}
+	.headervtwo .navigation > ul > li{margin:0;}
+	.headervtwo .navigation > ul > li > a{color:#333;}
+	.headervtwo {margin: 0 0 -60px;}
+	.headervtwo .logo{width:240px;}
+	.headervtwo .navigationarea{border:0;}
+	.homeslidervthree .slidercontent{
+		position:absolute;
+		padding:50px 30px 30px 30px;
+	}
+	.slidercontent {
+		width: 100%;
+		position: relative;
+	}
+	.homeslider .owl-nav{
+		right:0;
+		left:auto;
+	}
+	.homebannervtwo .homeslider .owl-nav {top: 35%;}
+	.homeslidervfour .slidercontent {padding:0 30px;}
+	.homeslidervfour .slidercontent h1 {
+		font-size: 35px;
+		line-height: 35px;
+	}
+	.homeslidervfour .slidercontent h1 span {
+		padding: 10px 0;
+		font-size: 40px;
+		line-height: 20px;
+	}
+	.sidebar{padding:30px 0 0;}
+	.signupbox {padding: 30px 15px;}
+	.footer .widget {
+		min-height: 0;
+		padding: 15px 0;
+	}
+	.infolist li address {max-width: none;}
+	.coursestabs .themetabnav li{width:auto;}
+	.coursestabs .themetabnav li a {padding: 0 30px;}
+	.widgetcoursecategories{margin:0 0 30px;}
+	.facultydetail{padding:40px 0;}
+	.contactus .officelocation{margin:0 0 30px;}
+	.honorawards,
+	.campuslife{padding:30px 15px 0 15px;}
+	.campuslife figure{padding:0;}
+	.visionmission,
+	.rectormessage,
+	.leadership{padding:30px 0 0;}
+	.themeposttitle h3 a{
+		overflow: hidden;
+		display: -webkit-box;
+		-webkit-line-clamp: 1;
+		text-overflow: ellipsis;
+		-webkit-box-orient: vertical;
+	}
+	.jobdetail h1 {
+		font-size: 25px;
+		line-height: 28px;
+	}
+	.optionset li {padding: 0 5px;}
+	.masonrygrid{width:33.33%;}
+	.comingsoon {padding: 80px 0;}
+	/* .departmentscollapse ul li .description p{
+		width: 100%;
+		overflow: hidden;
+		white-space: nowrap;
+		padding: 0 15px 0 0;
+		text-overflow: ellipsis;
+	} */
+	.borderheading h1 span{
+		padding: 0 0 0 8px;
+		display: inline-block;
+	}
+	.departmentscollapse .themecollapsecontent ul{background: transparent;}
+	.departmentscollapse .themecollapsecontent ul li{
+		position: relative;
+		padding: 0 0 0 42px;
+	}
+	.departmentscollapse .themecollapsecontent ul li span{background: #f7f7f7 !important;}
+	.departmentscollapse .themecollapsecontent ul li a{width: 90px;}
+	.departmentscollapse .themecollapsecontent ul li .description{
+		background: #f7f7f7 !important;
+		padding: 10px 90px 10px 10px;
+	}
+}
+@media (max-width:700px){
+	.topbar .rightbox .tollfree {padding: 0 10px 0 0;}
+	.datebox,
+	.rtltextbox{
+		margin: 0 5px 0 0;
+		padding: 0 5px 0 0;
+	}
+	.rtltextbox em {padding: 0 5px 0 0;}
+	.btndropdown{padding:0 30px 0 15px;}
+	.headervtwo .topbar{text-align:center;}
+	.addressinfo{
+		width:100%;
+		text-align:center;
+	}
+	.addressinfo li{
+		width:100%;
+		float:none;
+		padding:5px 0;
+		display:inline-block;
+	}
+	.addressinfo li:last-child{padding:5px 0;}
+	.headervtwo .languagesdropdown{
+		width:90px;
+		float:none;
+		margin:0 auto;
+		padding:0 0 10px;
+		display:inline-block;
+	}
+	.homeslidervthree .item img{
+		width:auto;
+		height:350px;
+		max-width:none;
+	}
+}
+@media (max-width:640px){
+	.topbar .leftbox{
+		width:100%;
+		text-align:center;
+		padding:0 15px 15px;
+	}
+	.rtltextbox{
+		margin:0;
+		padding:0;
+	}
+	.topbar .rightbox{width:100%;}
+	.addnav ul li {padding: 0 0 0 15px;}
+	.headervtwo .logo{width:200px;}
+	.welcomeandgreeting-v2 figure{
+		float:none;
+		display:inline-block;
+	}
+	.welcomeandgreeting-v2 .shortcodetextbox{
+		width:100%;
+		text-align:left;
+		padding:20px 0 0;
+	}
+	.homeslidervthree .slidercontent h1 {
+		font-size: 30px;
+		line-height: 20px;
+	}
+	.homeslidervthree .slidercontent h1 span {
+		padding: 10px 0;
+		font-size: 28px;
+		line-height: 22px;
+	}
+	.coursestabs .themetabnav li{width:49%;}
+	.masonrygrid{width:50%;}
+	.topbar {padding: 0;}
+	.topbar .rightbox {padding: 0 0 0 15px;}
+	.mega-menu-col .themetabnav{width:100%;}
+	.fullmegamenu .themetabcontent{
+		width:100%;
+		float:left;
+	}
+	.tabpane .posts{
+		margin:0;
+		width:100%;
+		float:left;
+		clear:none;
+	}
+	.megamenuslider .themepost{padding:0;}
+	.megamenuslider .themepostcontent .matadata{
+		margin:0;
+		width:auto;
+	}
+	.megamenuslider .themepostcontent .pricebox{float:right;}
+	.fullmegamenu .tabpane {padding:30px;}
+}
+@media (max-width:568px){
+	.homebannervtwo .slidercontent .titledescription{
+		width:100%;
+		float:left;
+		padding:0;
+	}
+	.homebannervtwo .slidercontentbox {
+		padding: 0 0 70px;
+		position: relative;
+	}
+	.homebannervtwo .slidercontent .btn{
+		bottom:0;
+		margin:0;
+		float:none;
+		position:absolute;
+	}
+	.othercampuses > .row > [class^="col-"],
+	.othercampuses .row > [class*="col-"],
+	.noticeboardarea .widgetadmissionform,
+	.gallery li:first-child,
+	.events > .row > [class^="col-"],
+	.events .row > [class*="col-"],
+	.grid > .row > [class^="col-"],
+	.grid .row > [class*="col-"]{width:100%;}
+	.gallery li {width: 50%;}
+	.noticeboardarea {
+		width:100%;
+		float:left;
+		clear:none;
+		margin:-15px 0;
+	}
+	.glanceatuoeandkvtwo .gallery li{width:33.33%;}
+	.noticeboardarea .widgetadmissionform{padding:15px 0;}
+	.widgetflickrgallery .widgetcontent ul li {width: 33.33%;}
+	.addnav,
+	.copyright{
+		width:100%;
+		text-align:center;
+	}
+	.copyright{padding:0 0 10px;}
+	.addnav ul li{
+		float:none;
+		display:inline-block;
+	}
+	.addnav ul li:first-child{padding-left:0;}
+	.widgetquicklinksvtwo .widgetcontent ul li{
+		width:100%;
+		min-height:0;
+	}
+	.campusimg{width:100%;}
+	.maincampus .themepostcontent{
+		width:100%;
+		padding:30px;
+	}
+	.aboutusimages figure,
+	.objectivesimages figure{width:100%;}
+	.commentcontent,
+	.postauthorcontent{
+		width:100%;
+		float:left;
+	}
+	.postauthor figure,
+	.comment figure{display: none;}
+	.commentchild{padding:0;}
+	.errorimg{padding:0 15px;}
+	.errorcontent h2 {
+		font-size: 50px;
+		line-height: 50px;
+	}
+	.errorcontent h3 {
+		font-size: 25px;
+		line-height: 28px;
+	}
+	.comingsoon h2 {
+		font-size: 40px;
+		line-height: 40px;
+	}
+	.comingsoon h3 {
+		font-size: 25px;
+		line-height: 25px;
+	}
+	.comingsoon .description {padding: 0 12% 40px;}
+	.borderheading h1 span{
+		display: block;
+		padding: 5px 0 0;
+	}
+}
+@media (max-width:480px){
+
+   
+
+	.rtltextbox,
+	.datebox{
+		margin:0;
+		padding:0;
+		width:100%;
+		float:left;
+	}
+	.datebox:before{display:none;}
+	.tabpane .themepost{width:100%;}
+	.mega-menu-col figure,
+	.mega-menu-col{
+		width:100%;
+		float:left;
+	}
+	.mega-menu-col figure img{
+		display:block;
+		margin:0 auto;
+	}
+	.navigation .mega-menu-col > a{margin:0 13px;}
+	.mega-menu-col .textbox{
+		float:left;
+		padding:40px 15px;
+	}
+	.mega-menu-col + .mega-menu-col{background:none;}
+	.tabpane strong{
+		font-size:15px;
+		line-height:15px;
+		padding:0 0 50px;
+	}
+	.megamenuslider.owl-carousel .owl-nav {
+		right: 50%;
+		margin: 0 -34px 0 0;
+	}
+	.headervtwo {margin: 0 0 -122px;}
+	.headervtwo .logo{
+		float:none;
+		width:200px;
+		margin:20px auto 0;
+		display:block;
+	}
+	.headervtwo .navigationandsearch{width:100%;}
+	.headervtwo .nav{
+		float:left;
+		padding:3px 0;
+	}
+	.searchbox .formtheme {width: 250px;}
+	.slidercontentbox .borderheading{padding:0 0 10px;}
+	.slidercontent .description {padding: 10px 0;}
+	.slidercontent{padding:15px;}
+	.borderheading h1 {
+		font-size: 15px;
+		line-height: 15px;
+	}
+	.taglatestnews {
+		padding: 0 5px;
+		font-size: 12px;
+		line-height: 22px;
+	}
+	.slidercontent .description {font-size: 15px;}
+	.slidercontent .description p{
+		font-size:13px;
+		line-height:16px;
+	}
+	.slidercontent .btn {
+		line-height:30px;
+		padding: 0 20px;
+	}
+	.slidercontent .titledescription h1 {
+		font-size: 15px;
+		line-height: 15px;
+		margin: 0 0 10px;
+	}
+	.homebannervtwo .slidercontent {padding: 15px;}
+	.homebannervtwo .slidercontentbox {padding: 0 0 45px;}
+	.homeslider .owl-nav {
+		width: 47%;
+		padding: 30px 15px;
+	}
+	.homeslidervthree .owl-nav{
+		width:100%;
+		padding:0 15px;
+	}
+	.homeslidervfour .slidercontent .btn {padding: 0 30px;}
+	.btnpluslogo .btn{
+		width:100%;
+		margin:0 0 15px;
+	}
+	.btnpluslogo .universitylogo{width:100%;}
+	.borderheading h2 {
+		font-size: 16px;
+		line-height: 16px;
+	}
+	.formsignupfree .form-group{width:100%;}
+	.formsignupfree .form-group:first-child{
+		width:100%;
+		padding:0 0 15px;
+	}
+	.addnav ul li {padding: 0 0 0 5px;}
+	.coursestabs .themetabnav li{width:100%;}
+	.detailpage > .themepost > .themepostcontent > .pricebox{
+		width:100%;
+		margin:15px 0 0;
+		position:relative;
+	}
+	.detailpage > .themepost > .themepostcontent {padding: 0 0 30px 0;}
+	.documenticon{display:none;}
+	.btndownload{
+		width:100%;
+		margin:0 0 10px;
+		position:relative;
+	}
+	.eventspeakers .row > [class^="col-"],
+	.eventspeakers .row > [class*="col-"],
+	.eventcounter.counter .counterbox,
+	.faculties .row > [class^="col-"],
+	.faculties .row > [class*="col-"]{width:100%;}
+	/* .result .description p {
+		width: 100%;
+		overflow: hidden;
+		white-space: nowrap;
+		text-overflow: ellipsis;
+	} */
+	.addmission .pagetitle h2{font-size:20px;}
+	.addmissionslider.owl-carousel .owl-item img{
+		width: auto;
+		display: block;
+		height: 100%;
+		max-width: none;
+	}
+	.addmission .liststyledot li:before {top: 9px;}
+	.optionset li {
+		width: 100%;
+		padding:0;
+	}
+	.optionset li:before{display:none;}
+	.optionset li a{padding:8px 0;}
+	.masonrygrid {width: 100%;}
+	.errorcontent h3 {
+		font-size: 20px;
+		line-height: 23px;
+	}
+	.comingcountdown .counter {width: 100%;}
+	.comingsoon h3 {
+		font-size: 20px;
+		line-height: 20px;
+	}
+	.comingsoon .description {padding: 0 15px 15px;}
+	.themecollapsecontent{padding: 0 0 20px;}
+	.coursesemestercollapse .themecollapsecontent ul li:first-child{display: none;}
+	.coursesemestercollapse .themecollapsecontent ul li span{
+		top: 0;
+		left: 0;
+		border: 0;
+		width: 100%;
+		float: left;
+		right: auto;
+		text-align: left;
+		position: relative;
+		padding: 10px 10px 10px 110px;
+		border-bottom: 2px solid #fff;
+	}
+	.coursesemestercollapse .themecollapsecontent ul li span:before,
+	.coursesemestercollapse .themecollapsecontent ul li .description:before{
+		top: 0;
+		left: 0;
+		width: 100px;
+		padding: 10px;
+		text-align: left;
+		position: absolute;
+		font-size: inherit;
+		font-weight: bold;
+		line-height: inherit;
+		border-right: 2px solid #fff;
+	}
+	.coursesemestercollapse .themecollapsecontent ul li .description{
+		border: 0;
+		text-align: left;
+		position: relative;
+		padding: 10px 10px 10px 110px;
+	}
+	.coursesemestercollapse .themecollapsecontent ul li span:first-child:before{content:attr(data-serial);}
+	.coursesemestercollapse .themecollapsecontent ul li span:before{content:attr(data-credithrs);}
+	.coursesemestercollapse .themecollapsecontent ul li .description:before{content:attr(data-coursetitle);}
+	.coursesemestercollapse .themecollapsecontent ul li:last-child > strong:first-child{display: none;}
+	.coursesemestercollapse .themecollapsecontent ul li:last-child > strong{width: 60px;}
+	.coursesemestercollapse .themecollapsecontent ul li:last-child > .description{padding: 10px 70px 10px 10px;}
+	.coursesemestercollapse .themecollapsecontent ul li:last-child > .description:before{display: none;}
+	.btndownload{
+		height: 40px;
+		line-height: 40px;
+	}
+	.courseoutline li span{float: left;}
+	.courseoutline li span:last-child{float: right;}
+	.courseoutline li .description{
+		width: 100%;
+		float: left;
+		padding: 10px 0 0;
+	}
+	.allsemesterhours li > strong{
+		width: 60px;
+		padding: 0 10px;
+	}
+	.allsemesterhours li .description {padding: 0 60px 0 0;}
+}
+@media (max-width:479px){
+	.homeslidervthree .slidercontent h1 {
+		font-size: 20px;
+		line-height: 10px;
+	}
+	.homeslidervthree .slidercontent h1 span {
+		font-size: 22px;
+		line-height: 16px;
+	}
+	.postnav li{
+		width: 100%;
+		padding: 15px 0 0;
+	}
+	.postnav li:first-child{padding: 0 0 15px;}
+	.result .description{clear: both;}
+	.btndownloadresult {
+		float: left;
+		line-height: 20px;
+		margin: 10px 0 0;
+	}
+	.detailpage blockquote {padding: 0 0 0 85px;}
+    .logoandnoticeboard {text-align:center;}  
+     .logo a{font-size:16px; }
+     .Logohindi{font-size:18px;}
+     
+}
+@media (max-width:360px){  }

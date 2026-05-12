@@ -1,0 +1,7 @@
+AuthName "etec.ycis.ac.in statistics"
+AuthType Basic
+AuthUserFile /home/ycis/domains/etec.ycis.ac.in/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

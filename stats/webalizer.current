@@ -1,0 +1,557 @@
+# Webalizer V2.21-02 Incremental Data - 09/15/2021 00:52:06
+2021 9 15 0 52 6
+431 362 68 81 15 22 15072442 119 104 0
+1 1 54 1 15
+66 64 3199231 12 11 10
+11 9 261405 7 5 5
+7 4 142891 4 5 5
+15 12 404402 8 6 5
+74 56 2330193 11 12 8
+18 11 396055 7 7 6
+30 25 906208 8 10 9
+12 10 350382 7 6 6
+28 25 1141275 14 19 16
+16 12 344607 10 7 7
+21 17 677525 11 11 8
+88 84 3618740 11 10 9
+8 7 308234 3 3 3
+36 25 953386 15 7 7
+1 1 37908 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+13 12 582163 3
+5 4 74509 4
+10 8 290950 6
+13 13 602866 6
+7 5 151717 5
+55 54 2832761 2
+14 12 348217 4
+24 19 584135 9
+9 7 266822 5
+9 7 111995 3
+11 8 333349 4
+8 6 85827 2
+14 11 612960 7
+9 6 234446 5
+22 20 655872 4
+8 4 73233 3
+7 4 302564 3
+13 9 320991 6
+82 67 3344714 13
+25 23 468037 7
+3 3 359556 0
+46 43 1723153 6
+14 9 302375 8
+10 8 409230 4
+0
+0
+0
+362
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+69
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/css/font-awesome.min.css
+0 8 8028901561493451625 232496 0 0
+/
+0 69 0 3193803 64 44
+/images/t1.jpg
+1 1 0 26432 0 0
+/js/jquery.chocolat.js
+0 6 0 61218 0 0
+/css/main.css
+0 4 0 246696 0 0
+/css/contact_card.css
+0 8 0 39128 0 0
+/images/attarmam.jpg
+1 2 0 533862 0 0
+/fonts/glyphicons-halflings-regular.woff2
+0 2 72057594037927936 36056 0 0
+/registration.php
+0 2 4049067255154946100 24978 2 0
+/images/ADVISORY COMMITTEE/Prof A D Shaligram.jpg
+1 2 7811334602960549175 9380 0 0
+/images/sdjadhav.jpg
+1 2 3760836874641159221 86908 0 0
+/images/ADVISORY COMMITTEE/kedar.PNG
+1 5 3258133522647625076 110090 0 0
+/data/Index_ETEC-2021.pdf
+0 1 34872256 284951 0 0
+/proceedings.php
+0 2 3978421395393031728 17910 2 0
+/submissions.php
+0 3 7171939 61422 2 2
+/images/ADVISORY COMMITTEE/DrGaikwad Madam Joint secretery.jpg
+1 2 0 154228 0 0
+/images/footerbg.jpg
+1 3 0 238617 0 0
+/accom.php
+0 3 0 65670 3 0
+/css/toor.css
+0 1 0 532 0 0
+/about.php/js/bootstrap-3.1.1.min.js
+0 1 0 11436 0 0
+/images/5.jpg
+1 1 0 22858 0 0
+/tour.php
+0 5 0 105245 4 0
+/images/pol.jpg
+1 2 0 374272 0 0
+/venue.php
+0 4 0 39568 4 2
+/images/waghmare_R_P.png
+1 2 0 45728 0 0
+/images/environmental-toxicology-2018-63868.gif
+1 6 0 74142 0 0
+/fonts/fontawesome-webfont.woff2
+0 2 0 143792 0 0
+/images/dept.jpg
+1 2 0 325550 0 0
+/images/dr_deshpandesir.jpg
+1 1 0 20370 0 0
+/images/2bg.jpg
+1 2 0 182118 0 0
+/css/responsive.css
+0 3 0 69789 0 0
+/images/Button_submityourabstract2.png
+1 3 0 66678 0 0
+/images/ADVISORY COMMITTEE/Prof. P N Vasambekar.jpg
+1 1 0 2140 0 0
+/images/ADVISORY COMMITTEE/prof raj kamal.jpg
+1 2 0 13696 0 0
+/images/waghja.jpg
+1 5 0 94515 0 0
+/images/ADVISORY COMMITTEE/sanketgoel.jpg
+1 5 0 47765 0 0
+/css/style.css
+0 8 0 537576 0 0
+/images/satish.jpg
+1 5 0 133450 0 0
+/images/2.jpg
+1 12 0 1407624 0 0
+/images/ajinkyatara.jpg
+1 6 0 160356 0 0
+/images/1.jpg
+1 6 0 998490 0 0
+/css/panels.css
+0 7 0 25872 0 0
+/images/Prof. D. T.Shirke.jpg
+1 1 0 11633 0 0
+/js/move-top.js
+0 6 0 7980 0 0
+/images/ADVISORY COMMITTEE/Prof. Subhash Mukhopadyay.jpg
+1 5 0 41225 0 0
+/images/barkade.jpg
+1 2 0 323214 0 0
+/css/normalize.css
+0 4 0 31360 0 0
+/about.php
+0 5 0 57180 4 1
+/js/responsiveslides.min.js
+0 10 0 33970 0 0
+/css/chocolat.css
+0 5 0 10785 0 0
+/images/keynote/Dr. Prof. Katia Vutova.jpg
+1 2 0 10528 0 0
+/images/arrow-up-.png
+1 3 0 2166 0 0
+/images/ADVISORY COMMITTEE/drajayjadhav.JPG
+1 2 0 24382 0 0
+/images/ADVISORY COMMITTEE/Vidyangi Patil ,USA.jpg
+1 5 0 31350 0 0
+/images/nivekar.jpg
+1 2 0 125012 0 0
+/js/easing.js
+0 8 0 38064 0 0
+/css/timeline.css
+0 7 0 12404 0 0
+/js/jswin.js
+0 10 0 25140 0 0
+/images/skshinde.jpg
+1 2 0 110918 0 0
+/images/drvsshivnkar.jpg
+1 1 0 25673 0 0
+/images/N.D.Patil_.jpg
+1 1 0 211468 0 0
+/about.php/js/jswin.js
+0 1 0 11436 0 0
+/imp_dates.php
+0 3 0 39153 3 0
+/images/ADVISORY COMMITTEE/Dr. Vikram Gadre.jpg
+1 1 0 15131 0 0
+/images/prindr_btjadhav.png
+1 3 0 372132 0 0
+/images/ADVISORY COMMITTEE/p s patil sir.jpeg
+0 2 0 45662 0 0
+/tour.php/js/bootstrap-3.1.1.min.js
+0 1 0 21049 0 0
+/images/title.jpg
+1 3 0 527307 0 0
+/images/attarsir.jpg
+1 2 0 376530 0 0
+/images/ADVISORY COMMITTEE/Dr. Bharat Kale.jpg
+1 1 0 6809 0 0
+/images/ADVISORY COMMITTEE/Dr. Abhay Sagade.jpg
+1 1 0 5751 0 0
+/images/11.jpg
+1 2 0 318084 0 0
+/notice.php
+0 4 0 24928 1 1
+/js/owl.carousel.js
+0 8 0 303264 0 0
+/css/bootstrap.min.css
+0 8 0 969600 0 0
+/images/ADVISORY COMMITTEE/Dr. R .K. Kamat.jpg
+1 1 0 4937 0 0
+/team.php
+0 5 3329342103921623040 168420 5 2
+/js/bootstrap-3.1.1.min.js
+0 9 7165897045451880248 261990 0 0
+/images/ADVISORY COMMITTEE/Jaideep baphana.jpeg
+0 2 3903895711991882496 57696 0 0
+/css/owl.carousel.css
+0 5 3329908352409927680 42720 0 0
+/call_papers.php
+0 2 8026310034078397032 23118 2 0
+# End Of Table - urls
+# -sites- (monthly)
+msnbot-157-55-39-104.search.msn.com
+0 1 0 208 0 0
+-
+crawl-66-249-79-182.googlebot.com
+0 21 16 427176 3 1631125706
+/notice.php
+ip-54-36-148-229.a.ahrefs.com
+0 1 1 11559 1 1631324794
+/call_papers.php
+crawl-66-249-65-188.googlebot.com
+0 2 1 46495 1 1630723415
+/
+crawl-66-249-72-208.googlebot.com
+0 2 2 20602 0 0
+-
+ip-54-36-148-255.a.ahrefs.com
+0 1 0 208 0 0
+-
+ip-54-36-148-233.a.ahrefs.com
+0 1 1 33684 1 1631260352
+/team.php
+crawl-66-249-72-212.googlebot.com
+0 3 2 31779 0 0
+-
+ip-54-36-149-64.a.ahrefs.com
+0 1 1 13051 1 1630492347
+/imp_dates.php
+ip-54-36-148-106.a.ahrefs.com
+0 1 1 21890 1 1630594283
+/accom.php
+ip-54-36-148-63.a.ahrefs.com
+0 1 1 33684 1 1630461798
+/team.php
+ip-54-36-149-95.a.ahrefs.com
+0 1 0 208 0 0
+-
+msnbot-207-46-13-160.search.msn.com
+0 38 35 1597234 36 1631640272
+/
+164.164.116.131
+0 2 1 285160 0 0
+-
+msnbot-40-77-167-99.search.msn.com
+0 1 1 46287 1 1631160239
+/
+ip-54-36-149-73.a.ahrefs.com
+0 1 0 208 0 0
+-
+ip-54-36-148-46.a.ahrefs.com
+0 1 1 8955 1 1630488830
+/proceedings.php
+20.185.66.66
+0 15 3 141597 1 1630865370
+/
+google-proxy-64-233-173-72.google.com
+0 1 1 77114 0 0
+-
+ip-54-36-149-39.a.ahrefs.com
+0 1 1 11436 1 1630833547
+/about.php
+msnbot-157-55-39-152.search.msn.com
+0 3 3 59547 1 1631298165
+/about.php
+ip-54-36-148-129.a.ahrefs.com
+0 1 1 21049 1 1631033916
+/tour.php
+msnbot-40-77-167-60.search.msn.com
+0 2 2 57723 1 1631175284
+/
+msnbot-207-46-13-114.search.msn.com
+0 3 3 68666 1 1631175643
+/
+crawl-66-249-79-132.googlebot.com
+0 2 1 2723 0 0
+-
+ip-54-36-148-64.a.ahrefs.com
+0 1 1 11559 1 1630490239
+/call_papers.php
+msnbot-207-46-13-74.search.msn.com
+0 2 2 42161 1 1631411480
+/imp_dates.php
+152.57.44.111
+0 38 37 1513153 1 1630878437
+/team.php
+ip-54-36-149-26.a.ahrefs.com
+0 1 1 9892 1 1631287033
+/venue.php
+server540.iseencloud.net
+0 1 0 210 1 1631357746
+-
+ip-54-36-148-142.a.ahrefs.com
+0 2 2 55242 2 1631308095
+/proceedings.php
+ip-54-36-148-147.a.ahrefs.com
+0 2 1 10100 1 1630470199
+/venue.php
+crawl-66-249-79-180.googlebot.com
+0 39 36 1180761 7 1631193788
+/
+122.237.101.105
+0 4 0 941 0 0
+-
+crawl-prod-13.babbar.eu
+0 5 4 125267 1 1631388231
+/tour.php
+ip-54-36-149-18.a.ahrefs.com
+0 1 1 20474 1 1631227650
+/submissions.php
+ip-54-36-148-34.a.ahrefs.com
+0 1 1 11436 1 1631633028
+/about.php
+crawl-66-249-65-190.googlebot.com
+0 1 1 3397 0 0
+-
+crawl-66-249-72-210.googlebot.com
+0 3 3 199411 0 0
+-
+ec2-52-86-228-7.compute-1.amazonaws.com
+0 1 0 210 1 1630753038
+-
+ip-54-36-148-60.a.ahrefs.com
+0 1 1 21049 1 1631654892
+/tour.php
+static.89.207.12.49.clients.your-server.de
+0 3 1 46737 1 1630816837
+-
+157.41.8.54
+0 52 52 2811951 1 1631423432
+/notice.php
+b3d18d05.virtua.com.br
+0 52 52 2811951 1 1630521584
+/notice.php
+msnbot-207-46-13-95.search.msn.com
+0 2 2 49684 1 1631175257
+/
+crawl-66-249-65-161.googlebot.com
+0 1 1 117302 0 0
+-
+msnbot-207-46-13-73.search.msn.com
+0 1 1 4758 0 0
+-
+ip-54-36-148-191.a.ahrefs.com
+0 1 1 12489 1 1631052414
+/registration.php
+ip-54-36-149-31.a.ahrefs.com
+0 1 1 13051 1 1631315781
+/imp_dates.php
+crawl-66-249-72-214.googlebot.com
+0 4 3 163103 0 0
+-
+23.100.232.233
+0 19 19 551901 2 1631456627
+/tour.php
+msnbot-157-55-39-158.search.msn.com
+0 3 3 78772 2 1631429174
+/tour.php
+msnbot-40-77-167-57.search.msn.com
+0 7 0 1456 0 0
+-
+93.186.198.169
+0 3 1 46737 1 1630995944
+-
+43.248.96.186
+0 1 0 245 1 1631623981
+-
+ip-54-36-149-9.a.ahrefs.com
+0 1 1 21890 1 1631367101
+/accom.php
+msnbot-157-55-39-172.search.msn.com
+0 2 2 58776 2 1631380291
+/registration.php
+vps2196638.fastwebserver.de
+0 2 1 46489 1 1630939828
+/
+ip-54-36-148-3.a.ahrefs.com
+0 1 0 208 0 0
+-
+msnbot-207-46-13-7.search.msn.com
+0 5 5 93679 3 1631446599
+/accom.php
+ip-54-36-148-206.a.ahrefs.com
+0 1 0 208 0 0
+-
+ec2-3-137-202-64.us-east-2.compute.amazonaws.com
+0 3 1 46737 1 1630913748
+-
+crawl-66-249-79-134.googlebot.com
+0 1 1 46287 1 1631077177
+/
+159.203.101.143
+0 1 0 210 1 1630699150
+-
+40.88.21.235
+0 2 1 46496 1 1630521564
+/
+msnbot-157-55-39-157.search.msn.com
+0 1 0 208 0 0
+-
+106.55.25.77
+0 1 0 208 1 1631205956
+-
+crawl-66-249-79-178.googlebot.com
+0 50 43 1777403 7 1631646489
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+msnbot-157-55-39-152.search.msn.com
+0 1 1 37908 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://duckduckgo.com/
+0 1
+- (Direct Request)
+0 217
+http://etec.ycis.ac.in/tour.php
+0 9
+http://etec.ycis.ac.in/
+0 106
+http://etec.ycis.ac.in/about.php
+0 8
+http://etec.ycis.ac.in/css/font-awesome.min.css
+0 2
+http://etec.ycis.ac.in/css/bootstrap.min.css
+0 2
+http://etec.ycis.ac.in/data/Index_ETEC-2021.pdf
+0 1
+http://etec.ycis.ac.in/index.php
+0 17
+https://www.google.com/
+0 3
+http://etec.ycis.ac.in/css/style.css
+0 3
+http://etec.ycis.ac.in/team.php
+0 49
+http://etec.ycis.ac.in/notice.php
+0 11
+http://etec.ycis.ac.in/favicon.ico
+0 1
+http://etec.ycis.ac.in/css/contact_card.css
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 3
+Googlebot-Image/1.0
+0 41
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+0 5
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/92.0.45
+0 22
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 24
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 25
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0)
+0 19
+Mozilla/5.0 (compatible; Barkrowler/0.9; +https://babbar.tech/crawler)
+0 5
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.119 Mobile 
+0 41
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+0 54
+Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+0 1
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 48
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0 Safari/537.36
+0 15
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 22
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 OPR/78.0.
+0 52
+Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com)
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+0 38
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile S
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
